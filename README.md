@@ -1,2 +1,4 @@
-# todoapp, purely-functional style 
+# to-do app, purely-functional style 
+
+![](preview.JPG)
 
