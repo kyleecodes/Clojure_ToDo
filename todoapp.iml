@@ -22,13 +22,14 @@
     <orderEntry type="library" name="Leiningen: commons-fileupload:1.3" level="project" />
     <orderEntry type="library" name="Leiningen: commons-io:2.4" level="project" />
     <orderEntry type="library" name="Leiningen: compojure:1.1.6" level="project" />
-    <orderEntry type="library" name="Leiningen: hiccup:1.0.3" level="project" />
+    <orderEntry type="library" name="Leiningen: hiccup:1.0.5" level="project" />
     <orderEntry type="library" name="Leiningen: joda-time:2.1" level="project" />
     <orderEntry type="library" name="Leiningen: nrepl:0.6.0" level="project" />
     <orderEntry type="library" name="Leiningen: ns-tracker:0.2.1" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/clojure:1.5.1" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/core.incubator:0.1.0" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/java.classpath:0.2.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/java.jdbc:0.3.3" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/tools.macro:0.1.0" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/tools.namespace:0.1.3" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/tools.reader:0.7.3" level="project" />
@@ -38,6 +39,7 @@
     <orderEntry type="library" name="Leiningen: org.eclipse.jetty/jetty-io:7.6.8.v20121106" level="project" />
     <orderEntry type="library" name="Leiningen: org.eclipse.jetty/jetty-server:7.6.8.v20121106" level="project" />
     <orderEntry type="library" name="Leiningen: org.eclipse.jetty/jetty-util:7.6.8.v20121106" level="project" />
+    <orderEntry type="library" name="Leiningen: postgresql:9.1-901.jdbc4" level="project" />
     <orderEntry type="library" name="Leiningen: ring/ring-codec:1.0.0" level="project" />
     <orderEntry type="library" name="Leiningen: ring/ring-core:1.2.1" level="project" />
     <orderEntry type="library" name="Leiningen: ring/ring-devel:1.2.1" level="project" />
